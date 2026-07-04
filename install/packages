@@ -9,4 +9,5 @@ gcc
 xclip
 g++
 make
+python3-pip
 
