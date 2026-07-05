@@ -7,7 +7,14 @@ curl
 fontconfig
 gcc
 xclip
+feh
 g++
 make
+cmake
 python3-pip
-
+ripgrep-all
+luarocks
+lua5.5
+clang
+clangd
+direnv

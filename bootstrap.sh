@@ -10,7 +10,7 @@ mkdir -p ~/.local/bin
 
 printf "Start Installing....\n"
 
-install_script="${root_dir}/install/apt.sh"
+install_script="${root_dir}/install/install.sh"
 
 bash "${install_script}"
 
